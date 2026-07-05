@@ -1,58 +1,91 @@
-# Hey there! 👋 Welcome to my GitHub
+# Mahima Sivaraman
 
-I'm a passionate developer building innovative solutions and exploring the intersection of code, creativity, and technology.
-
-## 🚀 What I Do
-
-- **Full-Stack Development** — Building scalable web applications
-- **Problem Solving** — Tackling complex challenges with clean code
-- **Open Source** — Contributing to the developer community
-- **Continuous Learning** — Staying ahead of tech trends
-
-## 💻 Tech Stack
-
-**Languages:** JavaScript, Python, HTML5, CSS3, SQL  
-**Frontend:** React, Vue.js, TailwindCSS  
-**Backend:** Node.js, Express, Django  
-**Tools & Platforms:** Git, GitHub, Docker, VS Code  
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahimasivaraman&style=flat-square)
-
-## 🎯 Current Focus
-
-- 🔨 Building full-stack applications
-- 📚 Learning advanced system design patterns
-- 🤝 Collaborating on open-source projects
-- 🎓 Mentoring junior developers
-
-## 🌟 Featured Projects
-
-**[Project Name]** — Brief description of what makes it awesome  
-**[Project Name]** — Another cool project you're proud of  
-**[Project Name]** — Third project highlight  
-
-## 💡 Recent Work
-
-- Developed responsive web applications
-- Optimized database queries for 40% performance improvement
-- Implemented modern CI/CD pipelines
-
-## 📫 Let's Connect
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-
-## 🎁 Fun Facts
-
-- ☕ Coffee-driven developer
-- 🎮 Gaming enthusiast
-- 📖 Always reading tech blogs
-- 🌍 Open to remote opportunities
+Full-Stack Developer | Problem Solver | Open Source Contributor
 
 ---
 
-**Thanks for visiting! Feel free to star ⭐ my repos or reach out if you'd like to collaborate.**
+## 👋 About Me
+
+I'm a dedicated developer passionate about crafting clean, efficient code and building scalable solutions. With expertise across the full development stack, I focus on delivering user-centric applications that solve real-world problems.
+
+---
+
+## 🛠️ Technical Expertise
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, Python, HTML5, CSS3, SQL |
+| **Frontend** | React, Vue.js, TailwindCSS, Responsive Design |
+| **Backend** | Node.js, Express, Django, RESTful APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **DevOps & Tools** | Git, GitHub, Docker, Docker Compose |
+| **Development** | Agile Methodologies, Git Workflow, Unit Testing |
+
+---
+
+## 📁 Featured Projects
+
+### [Project Name](#)
+Description of the project, technologies used, and key achievements.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Highlights:** Feature highlights and metrics
+
+### [Project Name](#)
+Description of the project, technologies used, and key achievements.
+- **Tech Stack:** Vue.js, Django, PostgreSQL
+- **Highlights:** Feature highlights and metrics
+
+### [Project Name](#)
+Description of the project, technologies used, and key achievements.
+- **Tech Stack:** Vanilla JS, Express, MySQL
+- **Highlights:** Feature highlights and metrics
+
+---
+
+## 📊 What I Bring
+
+✅ **Full-Stack Development** — End-to-end application development  
+✅ **Clean Code** — Maintainable, well-documented solutions  
+✅ **Performance Optimization** — Database query optimization, code efficiency  
+✅ **User Experience** — Responsive, intuitive interface design  
+✅ **Collaboration** — Strong communication and team integration  
+✅ **Continuous Learning** — Staying current with industry trends  
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable web applications with modern frameworks
+- Optimizing application performance and user experience
+- Contributing to open-source projects
+- Exploring advanced software architecture patterns
+
+---
+
+## 📈 GitHub Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahimasivaraman&style=flat-square)
+
+---
+
+## 📞 Get In Touch
+
+I'm always interested in discussing new opportunities, collaborations, or technical insights.
+
+| Platform | Link |
+|----------|------|
+| **Email** | [your.email@example.com](mailto:your.email@example.com) |
+| **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+| **Twitter** | [@yourhandle](https://twitter.com/yourhandle) |
+
+---
+
+## 📋 Resume & More
+
+For a detailed view of my professional background, experience, and qualifications:
+- 📄 [Download Resume](#) | 🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
+
+**Thank you for visiting my profile. Feel free to explore my repositories, and don't hesitate to reach out for collaboration or inquiries!**
